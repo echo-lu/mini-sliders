@@ -51,4 +51,6 @@ sliders: {
       } 
 ```
 
+关于vue封装插件并发布到npm上的步骤可参考我的微博[vue封装插件并发布到npm上](https://github.com/echo-lu/mini-sliders)
+
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
