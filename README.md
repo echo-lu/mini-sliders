@@ -25,7 +25,8 @@ npm run build
 
 ## 实例
 首先在项目的入口文件（main.js）中引入
-``` import Slider from 'mini-sliders'
+``` 
+import Slider from 'mini-sliders'
 Vue.use(Slider) 
 ```
 
