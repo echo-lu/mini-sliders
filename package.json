@@ -5,6 +5,7 @@
   "author": "Echo-lu <echo_lcp@163.com>",
   // 配置main结点，如果不配置，我们在其他项目中就不用import XX from '包名'来引用了，只能以包名作为起点来指定相对的路径
   "main":"dist/vue-slider.js",
+  //开源协议
   "license": "MIT",
   // 因为组件包是公用的，所以private为false
   "private": false,
@@ -48,3 +49,6 @@
     "webpack-dev-server": "^2.9.1"
   }
 }
+
+
+
